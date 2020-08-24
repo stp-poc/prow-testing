@@ -2,4 +2,3 @@
 test:
   me:
     some: yaml
-invalid: should: be
